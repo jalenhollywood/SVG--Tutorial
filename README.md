@@ -2,7 +2,7 @@
 <html>
 
 <head>
- <title>SVG Tutorial</title>
+ 
 </head>
 
 
